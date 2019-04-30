@@ -1,0 +1,14 @@
+body {
+    background-color: mediumaquamarine;
+    display:flex;
+    text-align: center;
+    flex-direction:column;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+}
+
+#main {
+    width: 40%;
+    border: 1px solid white;
+    padding: 10px;
+}
